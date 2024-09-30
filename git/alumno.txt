@@ -1,0 +1,4 @@
+Nombre: Alberto
+Edad: 20
+Carrera: Lincenciatura en Informatica
+Matrícula: 10056444
