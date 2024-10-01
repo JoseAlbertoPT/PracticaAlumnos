@@ -1,4 +1,4 @@
-Nombre: Jose
-Edad: Informatica
-Carrera: Informatica
+Nombre: Jose Alberto
+Edad: 20
+Carrera: lincenciatura Informatica
 Matrícula: 10056444
