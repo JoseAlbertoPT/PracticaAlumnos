@@ -1,4 +1,4 @@
-Nombre: Alberto
-Edad: 21
-Carrera: INFORMATICA
+Nombre: Jose
+Edad: Informatica
+Carrera: Informatica
 Matrícula: 10056444
